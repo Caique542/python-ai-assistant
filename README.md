@@ -42,6 +42,7 @@ O sistema é capaz de reconhecer rostos, classificar imagens, ler textos (OCR) e
 1. Python instalado.
 2. Uma chave de API da **Groq Cloud**.
 3. Crie uma pasta chamada fotos dentro do arquivo e coloque suas fotos em png dentro da pasta
+4. ao roda o código diga "Corvo, treinar facial"
 
 ### Instalação
 ```bash
