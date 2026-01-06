@@ -1,0 +1,11 @@
+speechrecognition
+requests
+numpy
+easyocr
+pyautogui
+opencv-contrib-python
+tensorflow
+gTTS
+pygame
+pyaudio
+Pillow
