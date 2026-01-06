@@ -45,7 +45,6 @@ O sistema é capaz de reconhecer rostos, classificar imagens, ler textos (OCR) e
 ### Instalação
 ```bash
 # Clone o repositório
-git clone [https://github.com/seu-usuario/corvo-assistant.git](https://github.com/seu-usuario/corvo-assistant.git)
 
 # Instale as dependências
 pip install -r requirements.txt
